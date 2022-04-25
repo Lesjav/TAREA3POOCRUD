@@ -1,0 +1,13 @@
+﻿  mysql_c.cpp
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(55,14): error C2374: 'p': nueva definición; inicialización múltiple
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(43): message : vea la declaración de 'p'
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(68,14): error C2374: 'p': nueva definición; inicialización múltiple
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(43): message : vea la declaración de 'p'
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(81,14): error C2374: 'p': nueva definición; inicialización múltiple
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(43): message : vea la declaración de 'p'
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(47,3): error C2360: la inicialización de 'p' se omite en la etiqueta 'case'
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(43): message : vea la declaración de 'p'
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(59,3): error C2360: la inicialización de 'p' se omite en la etiqueta 'case'
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(55): message : vea la declaración de 'p'
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(72,3): error C2360: la inicialización de 'p' se omite en la etiqueta 'case'
+C:\Users\javie\Documents\SEMESTRE II\PROGRAMACIÓN I\TAREAS\TAREA 3 - POO Y MYSQL\mysql_c\mysql_c\mysql_c.cpp(68): message : vea la declaración de 'p'
